@@ -45,6 +45,7 @@ INSTALLED_APPS = [
 
     # myapps
     'users',
+    'flight',
 ]
 
 MIDDLEWARE = [
